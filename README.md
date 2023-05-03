@@ -13,5 +13,4 @@
 📫 How to reach me LinkedIn @Gizem Koçyiğit ...
 
 -Languages-
-
  C#, Java..
