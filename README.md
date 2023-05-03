@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning C# and Unity..
 
-📫 How to reach me Linkedin @Gizem Koçyiğit...
+📫 How to reach me LinkedIn @Gizem Koçyiğit...
 
 -Languages-
 
